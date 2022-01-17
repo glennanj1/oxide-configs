@@ -3,14 +3,14 @@
     "Tabs": [
       {
         "ButtonText": "Welcome",
-        "HeaderText": "Welcome Tab",
+        "HeaderText": "Welcome To Rustboi.com!",
         "Pages": [
           {
             "TextLines": [
-              "Welcome to Rustboi.com!",
               "Here you will find server info and plugins",
               "type <color=red> /info </color> to open this window",
-              "Press next page to check second page.",
+              "Kits cost scrap in this server working on a point system",
+              "Join the discord and keep and eye on Rustboi.com for more updates"
             ],
             "ImageSettings": [
               {
@@ -65,12 +65,36 @@
         "OxideGroup": ""
       },
       {
-        "ButtonText": "Plugins",
-        "HeaderText": "Plugins Tab",
+        "ButtonText": "Help",
+        "HeaderText": "Commands List",
         "Pages": [
           {
             "TextLines": [
-              "List of Addons",
+              "For mini heli type <color=red>/mymini</color>",
+              "To Teleport use <color=purple> /tphelp </color> for more info",
+              "For removing unwanted builds <color=green> /remove </color>",
+              "To use kits <color=blue> /kit </color>",
+              "To make a clan use the <color=yellow> /clanhelp </color> for further instructions",
+              "For gather rate info type <color=pink> /gather </color>",
+              "For free skin box use <color=pink> /skin </color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Plugins",
+        "HeaderText": "Full List of Addons",
+        "Pages": [
+          {
+            "TextLines": [
               "01 BetterLoot (3.5.8) by Tryhard & Khan (0.43s) - BetterLoot.cs",
               "02 Blueprint Manager (1.1.6) by Orange (0.01s) - BlueprintManager.cs",
               "03 Clans (0.2.5) by k1lly0u (0.01s) - Clans.cs",
