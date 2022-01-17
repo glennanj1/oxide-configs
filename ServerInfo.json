@@ -2,17 +2,15 @@
   "settings": {
     "Tabs": [
       {
-        "ButtonText": "First Tab",
-        "HeaderText": "First Tab",
+        "ButtonText": "Welcome",
+        "HeaderText": "Welcome Tab",
         "Pages": [
           {
             "TextLines": [
-              "This is first tab, first page.",
-              "Add some text here by adding more lines.",
-              "You should replace all default text lines with whatever you feel up to",
+              "Welcome to Rustboi.com!",
+              "Here you will find server info and plugins",
               "type <color=red> /info </color> to open this window",
               "Press next page to check second page.",
-              "You may add more pages in config file."
             ],
             "ImageSettings": [
               {
@@ -56,26 +54,43 @@
                 "TransparencyInPercent": 100
               }
             ]
-          },
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Plugins",
+        "HeaderText": "Plugins Tab",
+        "Pages": [
           {
             "TextLines": [
-              "This is first tab, second page",
-              "Add some text here by adding more lines.",
-              "You should replace all default text lines with whatever you feel up to",
-              "type <color=red> /info </color> to open this window",
-              "Press next page to check third page.",
-              "Press prev page to go back to first page.",
-              "You may add more pages in config file."
-            ],
-            "ImageSettings": []
-          },
-          {
-            "TextLines": [
-              "This is first tab, third page",
-              "Add some text here by adding more lines.",
-              "You should replace all default text lines with whatever you feel up to",
-              "type <color=red> /info </color> to open this window",
-              "Press prev page to go back to second page."
+              "List of Addons",
+              "01 BetterLoot (3.5.8) by Tryhard & Khan (0.43s) - BetterLoot.cs",
+              "02 Blueprint Manager (1.1.6) by Orange (0.01s) - BlueprintManager.cs",
+              "03 Clans (0.2.5) by k1lly0u (0.01s) - Clans.cs",
+              "04 Disable Cold Damage (1.0.3) by Talha (0.02s) - DisableColdDamage.cs",
+              "05 Furnace Splitter (2.3.3) by FastBurst (0.21s) - FurnaceSplitter.cs",
+              "06 Gathering Manager (2.2.75) by Mughisi (0.16s) - GatherManager.cs",
+              "07 Instant Craft (2.1.5) by Orange (0.00s) - InstantCraft.cs",
+              "08 Kits (4.0.14) by k1lly0u (0.04s) - Kits.cs",
+              "09 NTeleportation (1.6.7) by nivex (0.21s) - NTeleportation.cs",
+              "10 No Escape (2.1.35) by Calytic (0.04s) - NoEscape.cs",
+              "11 No Give Notices (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs",
+              "12 NoWorkbench (0.1.51) by k1lly0u (0.01s) - NoWorkbench.cs",
+              "13 Quick Smelt (5.1.3) by Iv Misticos (0.38s) - QuickSmelt.cs",
+              "14 Remover Tool (4.3.30) by Reneb/Fuji/Arainrr (0.01s) - RemoverTool.cs",
+              "15 ServerInfo (0.5.6) by FastBurst/Fujikura/baton (0.04s) - ServerInfo.cs",
+              "16 Skins (2.2.2) by misticos (0.04s) - Skins.cs",
+              "17 Spawn Mini (2.11.1) by SpooksAU (0.04s) - SpawnMini.cs",
+              "18 Stack Size Controller (4.1.0) by AnExiledDev (0.04s) - StackSizeController.cs",
+              "19 TimeOfDay (2.3.4) by FuJiCuRa (0.00s) - TimeOfDay.cs",
+              "20 Welcomer (1.5.6) by Dana (0.00s) - Welcomer.cs"
             ],
             "ImageSettings": []
           }
@@ -89,39 +104,16 @@
         "OxideGroup": ""
       },
       {
-        "ButtonText": "Second Tab",
-        "HeaderText": "Second Tab",
+        "ButtonText": "Thanks",
+        "HeaderText": "Thanks Tab",
         "Pages": [
           {
             "TextLines": [
-              "This is second tab, first page.",
-              "Add some text here by adding more lines.",
-              "You should replace all default text lines with whatever you feel up to",
-              "type <color=red> /info </color> to open this window",
-              "You may add more pages in config file."
-            ],
-            "ImageSettings": []
-          }
-        ],
-        "TabButtonAnchor": 4,
-        "TabButtonFontSize": 16,
-        "HeaderAnchor": 0,
-        "HeaderFontSize": 32,
-        "TextFontSize": 16,
-        "TextAnchor": 3,
-        "OxideGroup": ""
-      },
-      {
-        "ButtonText": "Third Tab",
-        "HeaderText": "Third Tab",
-        "Pages": [
-          {
-            "TextLines": [
-              "This is third tab, first page.",
-              "Add some text here by adding more lines.",
-              "You should replace all default text lines with whatever you feel up to",
-              "type <color=red> /info </color> to open this window",
-              "You may add more pages in config file."
+              "Thanks to the true Rustboi's for helping me get to where I am today.",
+              "Server Wipes Every Thursday",
+              "No blue prints on this server",
+              "Join the Discord to reach out to admin for further help",
+              "Thanks for coming, enjoy the chaos."
             ],
             "ImageSettings": []
           }
