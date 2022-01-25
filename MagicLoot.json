@@ -1,12 +1,12 @@
 {
   "General Settings": {
-    "General Item List Multiplier (All items in the 'Manual Item Multipliers' List)": 1.0,
-    "Non Item List Multiplier (All items not listed in the 'Manual Item Multipliers' List)": 1.0,
+    "General Item List Multiplier (All items in the 'Manual Item Multipliers' List)": 10.0,
+    "Non Item List Multiplier (All items not listed in the 'Manual Item Multipliers' List)": 10.0,
     "Limit Multipliers to Stacksizes": true,
     "Multiply Blueprints": false,
-    "Disable Blueprint Drops": false,
-    "Random Workshop Skins": false,
-    "Multiply Tea Buffs": false,
+    "Disable Blueprint Drops": true,
+    "Random Workshop Skins": true,
+    "Multiply Tea Buffs": true,
     "Force Custom Loot Tables for Default Loot on all Containers": false
   },
   "Extra Loot": {
