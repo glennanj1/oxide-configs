@@ -3351,7 +3351,10 @@
     "item_drop": "item_drop",
     "american_beech_a_dead": "american_beech_a_dead",
     "Wood Storage Box": "Wood Storage Box",
-    "american_beech_a": "american_beech_a"
+    "american_beech_a": "american_beech_a",
+    "Metal Shop Front": "Metal Shop Front",
+    "american_beech_c": "american_beech_c",
+    "american_beech_b": "american_beech_b"
   },
   "Version": {
     "Major": 4,
